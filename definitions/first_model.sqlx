@@ -1,10 +1,1 @@
-
-
-config { 
-    type: "view" ,
-    schema: "test_ds"
-    }
-
-SELECT "Test" as name,
-        "Test2" as name2
-        
+Hello
