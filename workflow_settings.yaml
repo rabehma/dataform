@@ -1,4 +1,5 @@
 defaultProject: dataform-497410
-defaultDataset: dataform
+defaultDataset: raw
 defaultAssertionDataset: dataform_assertions
+defaultLocation: us-east4
 dataformCoreVersion: 3.0.52

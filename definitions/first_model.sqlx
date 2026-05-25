@@ -1,10 +1,7 @@
+config {
+    type:"table"
 
+}
 
-config { 
-    type: "view" ,
-    schema: "test_ds"
-    }
+select "dataform" as name, "GCP" as platform
 
-SELECT "Test" as name,
-        "Test2" as name2
-        
