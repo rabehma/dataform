@@ -1,1 +1,7 @@
-Hello
+config {
+    type:"table"
+
+}
+
+select "dataform" as name, "GCP" as platform
+
